@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pczhao1210
-- 👀 I’m interested in Music and Travel
+- 👀 I’m interested in Sightseeing, Music and Watching Football
 - 🌱 I’m currently learning Microsoft IoT
 - 💞️ I’m looking to collaborate on Microsoft IoT Edge Projects
 - 📫 Please reach me by sending email to zhao.alexander@hotmail.com
